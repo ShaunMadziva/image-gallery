@@ -1,5 +1,7 @@
 # image-gallery
 
+https://shaunmadziva.github.io/image-gallery/
+
 A responsive and accessible image gallery
 
 🎯 What requirements did you achieve?  
